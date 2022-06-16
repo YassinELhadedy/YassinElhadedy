@@ -56,7 +56,7 @@
 
 ### Top Recommended Repo
 <!-- BLOG-POST-LIST:START -->
-- [EcommerceProductApp]([https://medium.com/@alyragab70/aws-dynamodb-deep-dive-6faa3259a08c](https://github.com/YassinELhadedy/EcommerceProductApp)
+- [EcommerceProductApp](https://github.com/YassinELhadedy/EcommerceProductApp)
 - [Build-Android-App-Sample1-CompleteCycle](https://github.com/YassinELhadedy/Build-Android-App-Sample1-CompleteCycle)
 - [BlockChain-Android-App-Sample-Reactive-DDD](https://github.com/YassinELhadedy/BlockChain-Android-App-Sample-Reactive-DDD)
 - [TrueCallerAssignmentApplication](https://github.com/YassinELhadedy/TrueCallerAssignmentApplication)
