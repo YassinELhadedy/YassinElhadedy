@@ -1,31 +1,25 @@
 <h1 align="center">Hi 👋, I'm Yassin</h1>
 <h3 align="center">Software Engineer@Vodafone-UK 🌟.</h3>
-
 <br>
 <br>
 
 <p><img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="adam-pw" width="500" height="320"/></p>
 
-## :sassy_man:  About me
+## :sassy_man:  Summary
 -  Android Engineer (Kotlin, Java, C#, Android, Docker, DDD & Microservices, CI/CD, Junit, Mockito, Espresso, Cucumber) Experienced in Building Android development with over 6 years of experience in the Mobile Apps.
 -  Has developed several web and mobile apps, that related to Scandinavian-Healthcare Model, Courier services & food ordering Model and Online Payment & E-Wallet & NFT With Crypto Currency.
 -  I have been working with big European Danish companies till now for 3 yr. I like to work on challenging problems, especially ones that touch people's lives.
 - :nerd_face: Always `learning new things`
 
 <br>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yassin-elhadedy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yassin-elhadedy" height="30" width="40" /></a>
 <a href="https://medium.com/%40yassinelhadedy76" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@yassinelhadedy76" height="30" width="40" /></a>
 </p>
-
 <br>
-
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
       alt="android" width="40" height="40" /> </a> <a href="https://pub.dev/" target="_blank" rel="noreferrer"> <img
       src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
@@ -52,6 +46,5 @@
       alt="android" width="40" height="40" /> </a> <a href="https://developer.android.com/training/testing/espresso" rel="noreferrer"> <img
       src="https://developer.android.com/images/training/testing/espresso.png"
       alt="android" width="40" height="40" /> </a> 
-  
   </p>
 <br>
