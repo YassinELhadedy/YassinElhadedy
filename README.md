@@ -8,7 +8,7 @@
 ## :sassy_man:  Summary
 -  Android Engineer 🦸 (Kotlin, Java, C#, Android, Docker, DDD & Microservices, CI/CD, Junit, Mockito, Espresso, Cucumber) Experienced in Building Android development with over 6 years of experience in the Mobile Apps.
 -  Has developed several web and mobile apps 🔥🔥, that related to Scandinavian-Healthcare Model, Courier services & food ordering Model and Online Payment & E-Wallet & NFT With Crypto Currency.
--  I have been working with big European Danish companies till now for 3 yr. I like to work on challenging problems, especially ones that touch people's lives 💻.
+-  I have been working with big European Danish companies till now for 5 yr. I like to work on challenging problems, especially ones that touch people's lives 💻.
 - :nerd_face: Always `learning new things`
 
 <br>
