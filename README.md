@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Yassin</h1>
 <h3 align="center">Software Engineer@Glassdoor 🤙.</h3>
+<h3 align="center">Software Engineer@Thoughtwire 🤙.</h3>
 <br>
 <br>
 
 <p><img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="adam-pw" width="500" height="320"/></p>
 
 ## :sassy_man:  Summary
--  Android Engineer 🦸 (Kotlin, Java, C#, Android, Docker, DDD & Microservices, CI/CD, Junit, Mockito, Espresso, Cucumber) Experienced in Building Android development with over 6 years of experience in the Mobile Apps.
--  Has developed several web and mobile apps 🔥🔥, that related to Scandinavian-Healthcare Model, Courier services & food ordering Model and Online Payment & E-Wallet & NFT With Crypto Currency.
--  I have been working with big European Danish companies till now for 5 yr. I like to work on challenging problems, especially ones that touch people's lives 💻.
+-  Android Engineer 🦸 (Kotlin, Java, C#, Android, Docker, DDD & Microservices, CI/CD, JUnit, Mockito, Espresso, Cucumber) Experienced in Building Android development with over 8 years of experience in Mobile Apps.
+-  Has developed several web and mobile apps 🔥🔥, that are related to the Scandinavian-Healthcare Model, Courier services, food ordering Model, Online Payment, E-Wallet, NFT With Crypto Currency, and a smart navigation system.
+-  I have been working with big European Danish and Canadian companies till now for 6 yr. I like to work on challenging problems, especially ones that touch people's lives 💻.
 - :nerd_face: Always `learning new things`
 
 <br>
